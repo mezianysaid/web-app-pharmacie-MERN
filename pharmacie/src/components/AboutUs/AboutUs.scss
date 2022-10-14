@@ -1,0 +1,17 @@
+.AboutUs {
+    // float: center;
+    // justify-content: center;
+    // justify-items: center;
+    .title{        
+        border-bottom: 4px solid #00FF7F;
+        padding-left:20px
+      }
+    .content{
+        padding-left: 20px;
+      }
+      .card{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        padding-left: 20px;
+        opacity: 0.7;
+      }
+}

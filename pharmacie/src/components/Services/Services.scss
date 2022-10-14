@@ -1,0 +1,30 @@
+.Services {
+    .title{
+      border-bottom: 3px solid #00FF7F;
+    }
+    .item{
+       padding:10px;
+       display: flex;
+      //  align-items: center;
+       justify-content: center;
+       .card{
+        display: flex;
+        // justify-content: center;
+        justify-items: center;
+        align-items: center;
+        align-content: center;
+       }
+       .divider{
+        color:red;
+       }
+       .boxed{
+        border-top: 4px solid #00FF7F;
+       }
+       .consultBtn{
+        &:hover{
+          background:white;
+          color:black;
+        }
+      }
+     }
+}

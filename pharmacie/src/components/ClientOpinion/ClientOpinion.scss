@@ -1,0 +1,17 @@
+.ClientOpinion {
+    .title{        
+        border-bottom: 4px solid #00FF7F;
+        padding-left:20px
+      }
+    .content{
+        padding-left: 20px;
+      }
+      .card{
+        border-left: 4px solid #00FF7F;
+        margin: 20px;
+      }
+      .addbtn{
+        display: flex;
+        justify-content:flex-end;
+      }
+}

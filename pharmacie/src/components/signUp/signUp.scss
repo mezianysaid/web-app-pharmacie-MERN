@@ -1,0 +1,16 @@
+.signUp {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    text-decoration: column;
+    align-content: center;
+    .title{
+        display: flex;
+        justify-content:center;
+        border-bottom: 2px dashed #00FF7F;
+    }
+    .btmbtn{
+        display: flex;
+        justify-content:center;
+    }
+}

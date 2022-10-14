@@ -1,0 +1,20 @@
+.ContactUs {
+    
+    .title{
+        border-bottom: 4px solid #00FF7F;
+        padding-left: 20px;        
+      }
+    .content{
+        padding-left: 20px;
+    }
+    .card{
+        width:80%;
+        margin-left: 10%;
+    }
+    .btmbtn{
+        display: flex;
+        justify-content:flex-end;
+        align-content: end;
+        margin: 2px;
+    }
+}

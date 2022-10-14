@@ -1,0 +1,27 @@
+.products {
+    .header{
+        height: 250px;
+    }
+    .product{
+    .grid{
+        // margin:10px;
+        padding: 10px;    
+        // box-shadow:0px 0px 2px 2px grey;
+        // text-shadow: 0px 0px 2px 2px grey;       
+        // box-shadow:5px 10px 10px 1px grey;
+        .card{
+            box-shadow:1px 1px 1px 1px grey;
+            border-radius: 30px;
+        }
+    }
+    .promotion{
+        position: absolute;
+        width: 40px;
+        height: 20px;
+        background-color: #00FF7F;
+        border-radius: 40px;
+        margin-top: 10px;
+        color:red
+    }
+}
+}

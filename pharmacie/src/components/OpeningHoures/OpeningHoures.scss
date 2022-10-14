@@ -1,0 +1,27 @@
+.OpeningHoures {
+    .title{
+        border-bottom: 4px solid #00FF7F;
+      }
+      .card{
+        margin:10px;
+        // padding-left: 10px;
+        .grid{                    
+          .item{
+            display: flex;                       
+            justify-content: center; 
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            .openBtn{
+              background:#00FF7F;
+              color:black
+            }
+            .closeBtn{
+              background:rgb(236, 82, 82);
+              color:black
+            }
+            @media (max-width:786px){
+               margin-left: 20px;
+            }                     
+          }
+        }
+      }
+}
